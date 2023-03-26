@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Theater xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:noNamespaceSchemaLocation="Theater.xsd">
+   <Details>
+      <Movie>Jhon Wick</Movie>
+      <Generes>Action</Generes>
+   </Details>
+   <Details>
+      <Movie>Shazam</Movie>
+      <Generes>Action</Generes>
+   </Details>
+   <Details>
+      <Movie>Scream</Movie>
+      <Generes>Horror</Generes>
+   </Details>
+</Theater>
