@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE Theater SYSTEM "Theater.dtd">
-<Theater>
+<Theater xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:noNamespaceSchemaLocation="Theater.xsd">
    <Details>
       <Movie>Jhon Wick</Movie>
       <Generes>Action</Generes>
